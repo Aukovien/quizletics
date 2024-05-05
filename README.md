@@ -1,5 +1,7 @@
 # Quizletics
 
+This is a fork of a group project from 2023 Spring. 
+
 Quizletics is a user-friendly website that offers randomized quizzes based on 9 different categories and 3 different difficulties. With the ability to create a profile, users can keep track of their information, earn badges, and keep stats on the quizzes they have taken, all on their profile page. The quizzes themselves are timed and feature randomized questions based on the category and difficulty level selected by the user. 
 
 The website makes use of The Trivia Api to provide a wide range of questions for its users. By accessing this expansive database of trivia questions, Quizletics is able to offer a diverse range of categories, including history, science, and pop culture, among others. Users can also select the difficulty level of their choice, providing a challenging experience for seasoned quiz-takers or a more relaxed experience for those just starting out. 
